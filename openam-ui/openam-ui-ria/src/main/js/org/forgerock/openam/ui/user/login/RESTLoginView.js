@@ -12,7 +12,7 @@
  * information: "Portions copyright [year] [name of copyright owner]".
  *
  * Portions copyright 2011-2016 ForgeRock AS.
- * Portions Copyrighted 2016-2019 Open Source Solution Technology Corporation
+ * Portions Copyrighted 2019 Open Source Solution Technology Corporation
  */
 
 define([
